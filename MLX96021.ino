@@ -139,7 +139,7 @@ void readEEPROM()
 	Serial.println(" ");
 }
 
-void writeTrimmingValue()
+void writeTrimmingValue() 
 {
 	Serial.print("\nWriting Trimming Value...");
 	Wire.beginTransmission(0x60);
