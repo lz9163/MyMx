@@ -1,4 +1,4 @@
-/*****************************************************************
+/* ****************************************************************
 * This code is design to interface with the MLX90621 sensor.
 * This sensor is a Low noise High Speed 16x4 Far Infrared array.
 * Here is used to obtain data for making a thermal sensor.
